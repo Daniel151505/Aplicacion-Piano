@@ -41,3 +41,8 @@
 .list-group-item:active{
     opacity: 0.5;
 }
+
+.fondo {
+    background-image: url("../assets/images/fondo-piano.jpg");
+}
+
